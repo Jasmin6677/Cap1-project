@@ -85,12 +85,6 @@ The system will be used only within the university library.
 
 ---
 
-## 9. Conclusion
-
-The Library Management System will improve the efficiency and accuracy of library operations by automating core processes and providing reliable access to library data for all users.
-
----
-
 ## 9. Outcome of the Project
 - What students learned from this project 
 - (This is recorded at the end of the project)
