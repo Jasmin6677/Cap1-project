@@ -1,55 +1,42 @@
-                               Project Plan
-1. Course Name:
-Cap1: System Analysis and Design
+>> ### Project Plan  ###<<
+1. Course Name: Cap1: System Analysis and Design
+2. Team Information
+- Team Name: 404
+- Team Members (Name / Student ID / Role):
+ > Leader Name:Usenbaeva Jasmina                ,  Student ID:202490350           , Group: I24D, Role: Leader, Phone Number: +998 90 633 62 25  
+ > Member Name 1:Dilfuza Nurabullaeva                ,  Student ID: 202490221          , Group: I24E-2, Role: Business Analyst
+ > Member Name 2:Baxtiyorova Shohinabonu                ,  Student ID: 202490400          , Group: I24E-2, Role: System Designer  
+ > Member Name 3:Karimova Lola               ,  Student ID: 202490162           , Group: I24E-2, Role:  Documentation Specialist
+3. Project Title
+- Library Management System for University
+4. Problem Statement(Why is this system needed?)
+- Many university libraries still use manual or outdated systems to manage books, borrowing, and returning processes. This leads to problems such as lost records, long queues, difficulty tracking available books, and inefficient library management.The Library Management System aims to automate library operations and provide an efficient, accurate, and user-friendly solution for both students and library staff.
+5. Project Objectives
+- To digitalize library book management  
+- To simplify borrowing and returning processes  
+- To reduce manual work and paperwork  
+- To ensure accurate tracking of books and users  
+- To generate reports for library management  
+6. Scope of the System
+The Library Management System will include the following functionalities:
 
-2. Team Information:
-Team Name: 404
-Team Members (Name / Student ID / Role):
-Leader Name: Usenbaeva Jasmina
-Student ID: 202490350
-Group: I24D
-Role: Team Leader / System Analyst
-Phone Number: +998 90 633 62 25
-Member Name 1: Dilfuza Nurabullaeva 
-Student ID: 202490221
-Group: I24E-2
-Role: Business Analyst
-Member Name 2: Baxtiyorova Shohinabonu 
-Student ID: 202490400
-Group: I24E-2
-Role: System Designer
-Member Name 3: Karimova Lola 
-Student ID: 202490162
-Group: I24E-2
-Role: Documentation Specialist
+- Managing book information (title, author, category, ISBN, availability)  
+- Managing student and staff user accounts  
+- Searching books by title, author, or category  
+- Recording borrowing and returning transactions  
+- Tracking due dates and overdue books  
+- Generating reports for library managers  
 
-3. Project Title:
-Library Management System for University
+The system will be used only within the university library.
 
-4. Problem Statement (Why is this system needed?):
-Many university libraries still manage books, borrowing, and returns manually or with outdated systems. This causes problems such as lost records, long queues, difficulty tracking available books, and inefficient management of library resources. The proposed Library Management System will automate book tracking, borrowing, returning, and reporting to improve efficiency and accuracy.
-
-5. Project Objectives:
-To develop a system that manages library books digitally;
-To simplify the process of borrowing and returning books;
-To reduce manual paperwork;
-To provide accurate records of available and issued books;
-To help library staff manage users and reports efficiently.
-
-6. Scope of the System:
-The system will:
-Store book information (title, author, category, quantity);
-Manage student and staff accounts;
-Allow users to search for books;
-Record borrowing and returning transactions;
-Generate reports for the manager;
-Track overdue books.
-The system will not include online payment or external library integration!
-
-7. Expected Users:
-Student (Customer) – searches and borrows books;
-Library Staff (Employee) – manages books and transactions;
-Library Manager – views reports and controls the system.
+### Out of Scope
+- Online payment system  
+- E-book reading functionality  
+- Integration with external libraries 
+7. Expected Users
+- **Students** – search and borrow books  
+- **Library Staff** – manage books and transactions  
+- **Library Manager** – monitor reports and system performance  
 
 8. Project Timeline (5 Weeks)
 | Week                           |           Activities                   |
